@@ -1,2 +1,21 @@
 # DoubleFantasy
 The Malware DoubleFantasy
+
+sha512sums:
+
+    actxprxy32.dll 2410e857d56e6a756f28543992c759be632a482f2f18e61fc01ba82c3e1682ad2d4c430b0f634087426fc721ee491199745892506e8bac9a3b080f71e5286f7f
+
+    ee.dll 2410e857d56e6a756f28543992c759be632a482f2f18e61fc01ba82c3e1682ad2d4c430b0f634087426fc721ee491199745892506e8bac9a3b080f71e5286f7f
+
+
+
+sha256sums:
+    
+    actxprxy32.dll e3185ad67a634f39076a1601d733a4573482341eafb6ea0c75e7e7f5d28bad51
+
+    ee.dlle3185ad67a634f39076a1601d733a4573482341eafb6ea0c75e7e7f5d28bad51
+
+
+https://www.virustotal.com/gui/file/e3185ad67a634f39076a1601d733a4573482341eafb6ea0c75e7e7f5d28bad51/detection
+
+The malware existed (in my case) in my system32 directory.
